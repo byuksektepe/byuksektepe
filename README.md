@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm Yüksektepe, but you can call me HighHill!
-<p>My name is Berkant Yüksektepe and I'm a Software Developer/QA Test Automation Engineer. I'm from Istanbul/Türkiye.</p>
+<p>My name is Berkant Yüksektepe and I'm a Software/ QA Test Automation Engineer. I'm from Istanbul/Türkiye.</p>
 
 <!--
 **Berkantyuks/Berkantyuks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

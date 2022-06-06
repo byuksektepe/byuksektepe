@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Yüksektepe, but you can call me HighHill!
 <p>My name is Berkant Yüksektepe and I'm a Software/ QA Test Automation Engineer. I'm from Istanbul/Türkiye.</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Berkantyuks&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00000&icon_color=00000&text_color=00000&bg_color=ffff" alt="my Github Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Berkantyuks&include_all_commits=true&count_private=true&show_icons=false&line_height=20&title_color=00000&icon_color=00000&text_color=00000&bg_color=ffff" alt="my Github Stats"/>
 
 
 <!--

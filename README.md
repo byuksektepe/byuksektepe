@@ -10,7 +10,7 @@
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Berkantyuks&theme=minimal" alt="my Github con stat"/>
 
-### Test Classification Marks
+### Test Classification Marks and My Favorite Project
  <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img width="79px" style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
  <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-u" rel="tc-u"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-u.png" alt="tc-u" /></a>
  <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-a" rel="tc-a"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-a.png" alt="tc-a" /></a>
@@ -19,6 +19,9 @@
  
  <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Berkantyuks&repo=QA-Project-Test-Classification-Mark&theme=white" />
+</a>
+ <a href="https://github.com/Berkantyuks/QATestCucumberSeleniumApple" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Berkantyuks&repo=QATestCucumberSeleniumApple&theme=white" />
 </a>
 
 

@@ -8,8 +8,11 @@
 <img style="width:337px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Berkantyuks&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi" />
 </kbd>
 </div>
+&ensp;
 <div align="center">
-<img style="width: 832px;" align="center" src="https://activity-graph.herokuapp.com/graph?username=Berkantyuks&theme=minimal" alt="my Github con stat"/>
+<kbd>
+<img style="width: 830px;" align="center" src="https://activity-graph.herokuapp.com/graph?username=Berkantyuks&theme=minimal" alt="my Github con stat"/>
+</kbd>
 </div>
 
 ### CodersRank Score

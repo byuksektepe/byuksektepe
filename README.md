@@ -11,17 +11,18 @@
 &ensp;
 <div align="center">
 <kbd>
-<img style="width: 830px;" align="center" src="https://activity-graph.herokuapp.com/graph?username=Berkantyuks&theme=minimal" alt="my Github con stat"/>
+<img style="width: 830px; padding:10px;" align="center" src="https://activity-graph.herokuapp.com/graph?username=Berkantyuks&theme=minimal" alt="my Github con stat"/>
 </kbd>
 </div>
 
 ### CodersRank Score
-
+<div align="center">
 <kbd>
 <a href="https://profile.codersrank.io/user/berkantyuks/" target="_blank">
-  <img align="center" style="border-raius: 5px;" src="https://user-images.githubusercontent.com/61010367/182741968-b95f8f5b-887d-499c-85cd-151f09751e12.png" />
+  <img style="width: 830px; style="border-raius: 5px;" src="https://user-images.githubusercontent.com/61010367/182741968-b95f8f5b-887d-499c-85cd-151f09751e12.png" />
 </a>
 </kbd>
+</div>
 
 ### Test Classification Marks and My Favorite Repositories
  

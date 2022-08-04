@@ -11,8 +11,11 @@
 
 ### CodersRank Score
 
+<kbd>
+ 
 ![image](https://user-images.githubusercontent.com/61010367/182741968-b95f8f5b-887d-499c-85cd-151f09751e12.png)
 
+</kbd>
 
 ### Test Classification Marks and My Favorite Repositories
  
@@ -25,6 +28,7 @@
  <a href="https://github.com/Berkantyuks/QATestCucumberSeleniumApple" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Berkantyuks&repo=QATestCucumberSeleniumApple&theme=white" />
 </a>
+</kbd>
 </div>
 
 

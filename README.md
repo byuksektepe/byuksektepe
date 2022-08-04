@@ -14,14 +14,8 @@
 ![image](https://user-images.githubusercontent.com/61010367/182741968-b95f8f5b-887d-499c-85cd-151f09751e12.png)
 
 
-### Test Classification Marks and My Favorite Project
- <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img width="79px" style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
- <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-u" rel="tc-u"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-u.png" alt="tc-u" /></a>
- <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-a" rel="tc-a"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-a.png" alt="tc-a" /></a>
- <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-c" rel="tc-c"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-c.png" alt="tc-c" /></a>
- <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-f" rel="tc-f"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-f.png" alt="tc-f" /></a>
+### Test Classification Marks and My Favorite Repositories
  
-
 <div align="center">
 <kbd>
 <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark" target="_blank">

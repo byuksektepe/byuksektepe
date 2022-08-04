@@ -9,6 +9,8 @@
 </div>
 <img style="width: 832px;" align="center" src="https://activity-graph.herokuapp.com/graph?username=Berkantyuks&theme=minimal" alt="my Github con stat"/>
 
+### CodersRank Score
+
 ![image](https://user-images.githubusercontent.com/61010367/182741968-b95f8f5b-887d-499c-85cd-151f09751e12.png)
 
 

@@ -7,8 +7,8 @@
 <img style="width:338px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Berkantyuks&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi" />
 
 </div>
-
-<img style="width:1100px" align="left" src="https://activity-graph.herokuapp.com/graph?username=Berkantyuks&theme=minimal" alt="my Github con stat"/>
+&ensp;&ensp;&ensp;
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Berkantyuks&theme=minimal" alt="my Github con stat"/>
 
 ### Test Classification Marks and My Favorite Project
  <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img width="79px" style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>

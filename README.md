@@ -1,20 +1,23 @@
 ### 👋 Hi there, I'm Yüksektepe, but you can call me HighHill!
 <p>My name is Berkant Yüksektepe and I'm a Software and QA Test Automation Engineer. I'm from Istanbul/Türkiye.</p>
 
-<div style="display: flex;">
+<div align="center" style="display: flex;">
+<kbd>
 <img style="width:486px;" src="https://github-readme-stats.vercel.app/api?username=Berkantyuks&include_all_commits=false&count_private=true&show_icons=false&line_height=20&title_color=00000&icon_color=00000&text_color=00000&bg_color=ffff" alt="my Github Stats"/>
 &ensp;
 <img style="width:344px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Berkantyuks&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi" />
-
+</kbd>
 </div>
+<div align="center">
 <img style="width: 832px;" align="center" src="https://activity-graph.herokuapp.com/graph?username=Berkantyuks&theme=minimal" alt="my Github con stat"/>
+</div>
 
 ### CodersRank Score
 
 <kbd>
- 
-![image](https://user-images.githubusercontent.com/61010367/182741968-b95f8f5b-887d-499c-85cd-151f09751e12.png)
-
+<a href="https://profile.codersrank.io/user/berkantyuks/" target="_blank">
+  <img align="center" style="border-raius: 5px;" src="https://user-images.githubusercontent.com/61010367/182741968-b95f8f5b-887d-499c-85cd-151f09751e12.png" />
+</a>
 </kbd>
 
 ### Test Classification Marks and My Favorite Repositories

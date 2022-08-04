@@ -3,12 +3,8 @@
 
 <div style="display: flex;">
 <img style="width:473px;" src="https://github-readme-stats.vercel.app/api?username=Berkantyuks&include_all_commits=false&count_private=true&show_icons=false&line_height=20&title_color=00000&icon_color=00000&text_color=00000&bg_color=ffff" alt="my Github Stats"/>
-&ensp;
+&ensp;&ensp;
 <img style="width:335px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Berkantyuks&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi" />
-
-<dl>
-  <dd>This gets indented, without enumeration nor dots.</dd>
-</dl>
 
 </div>
 

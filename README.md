@@ -3,9 +3,9 @@
 
 <div align="center" style="display: flex;">
 <kbd>
-<img style="width:486px;" src="https://github-readme-stats.vercel.app/api?username=Berkantyuks&include_all_commits=false&count_private=true&show_icons=false&line_height=20&title_color=00000&icon_color=00000&text_color=00000&bg_color=ffff" alt="my Github Stats"/>
+<img style="width:482px;" src="https://github-readme-stats.vercel.app/api?username=Berkantyuks&include_all_commits=false&count_private=true&show_icons=false&line_height=20&title_color=00000&icon_color=00000&text_color=00000&bg_color=ffff" alt="my Github Stats"/>
 &ensp;
-<img style="width:344px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Berkantyuks&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi" />
+<img style="width:340px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Berkantyuks&show_icons=true&locale=en&layout=compact&theme=chartreuse-light" alt="ovi" />
 </kbd>
 </div>
 <div align="center">

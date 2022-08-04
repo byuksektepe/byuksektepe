@@ -24,9 +24,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Berkantyuks&repo=QATestCucumberSeleniumApple&theme=white" />
 </a>
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Berkantyuks&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
 
 
 

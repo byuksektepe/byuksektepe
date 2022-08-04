@@ -19,7 +19,7 @@
 <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark" target="_blank">
   &ensp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Berkantyuks&repo=QA-Project-Test-Classification-Mark&theme=white" />
 </a>
-&ensp;
+&ensp;&ensp;
  <a href="https://github.com/Berkantyuks/QATestCucumberSeleniumApple" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Berkantyuks&repo=QATestCucumberSeleniumApple&theme=white" />
 </a>

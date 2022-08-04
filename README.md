@@ -19,7 +19,7 @@
 <div align="center">
 <kbd>
 <a href="https://profile.codersrank.io/user/berkantyuks/" target="_blank">
-  <img style="width: 830px; style="border-raius: 5px;" src="https://user-images.githubusercontent.com/61010367/182741968-b95f8f5b-887d-499c-85cd-151f09751e12.png" />
+  <img style="width: 830px; style="border-raius: 5px;" src="https://user-images.githubusercontent.com/61010367/182818286-d7a4e9b6-beb1-498b-8e53-28197a15245f.png" />
 </a>
 </kbd>
 </div>

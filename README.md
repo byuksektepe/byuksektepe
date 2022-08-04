@@ -17,7 +17,7 @@
  <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-f" rel="tc-f"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40/114x40-tc-f.png" alt="tc-f" /></a>
  
 <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Berkantyuks&repo=QA-Project-Test-Classification-Mark&theme=white" />
+  &ensp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Berkantyuks&repo=QA-Project-Test-Classification-Mark&theme=white" />
 </a>
 &ensp;
  <a href="https://github.com/Berkantyuks/QATestCucumberSeleniumApple" target="_blank">

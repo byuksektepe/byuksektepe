@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm Yüksektepe, but you can call me HighHill!
-<a><img src="https://user-images.githubusercontent.com/61010367/183224999-7c80dc90-b810-43db-aea0-a7b61b60c937.png"/></a>
+<a style="display: flex;"><img src="https://user-images.githubusercontent.com/61010367/183224999-7c80dc90-b810-43db-aea0-a7b61b60c937.png"/></a>
 <p>My name is Berkant Yüksektepe and I'm a Software and QA Test Automation Engineer. I'm from Istanbul/Türkiye.</br> Here is my Test Classification Marks. Go ahed! scroll down for more about me.</p>
 
 <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-a" rel="tc-a"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-light/114x40-tc-a.png" alt="tc-a" /></a>

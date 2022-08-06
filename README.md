@@ -19,10 +19,14 @@
 </kbd>
 </div>
 &ensp;
+
 <div align="center">
-<kbd>
-<img style="width: 830px; padding:10px;" align="center" src="https://activity-graph.herokuapp.com/graph?username=Berkantyuks&theme=minimal" alt="my Github con stat"/>
-</kbd>
+  <kbd>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.herokuapp.com/graph?username=Berkantyuks&theme=github">
+      <img width="830px" style="padding: 10px;" align="center" src="https://activity-graph.herokuapp.com/graph?username=Berkantyuks&theme=minimal" alt="my Github con stat"/>
+    </picture>
+  </kbd>
 </div>
 
 ### &#9866; CodersRank Score <img src="https://user-images.githubusercontent.com/61010367/183224999-7c80dc90-b810-43db-aea0-a7b61b60c937.png"/><div>

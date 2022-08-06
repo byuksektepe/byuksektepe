@@ -40,7 +40,7 @@
 <div align="center">
 <kbd>
 <a href="https://profile.codersrank.io/user/berkantyuks/" target="_blank">
-  <img style="width: 830px; style="border-raius: 5px;" src="https://user-images.githubusercontent.com/61010367/182818286-d7a4e9b6-beb1-498b-8e53-28197a15245f.png" />
+  <img style="width: 830px; style="border-raius: 5px;" src="https://user-images.githubusercontent.com/61010367/183269352-02678aff-2c66-46f6-b096-8f0b15eff072.png" />
 </a>
 </kbd>
 </div>

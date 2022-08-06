@@ -1,6 +1,6 @@
 ### &#10095;  Hi there, I'm Berkant Yüksektepe, but you can call me HighHill!<div><img src="https://user-images.githubusercontent.com/61010367/183224999-7c80dc90-b810-43db-aea0-a7b61b60c937.png"/><div>
 
-<p>My name is Berkant Yüksektepe and I'm a Software and QA Test Automation Engineer. I'm from Istanbul/Türkiye. I love light theme. If you are using dark theme on github, you can switch to light theme for better experience. </br> Here is my Test Classification Marks and some github info. Go ahed! scroll down for more about me.</p>
+<p>My name is Berkant Yüksektepe and I'm a Software and QA Test Automation Engineer. I'm from Istanbul/Türkiye. I love light theme. If you are using dark theme on github, you can switch to light theme for better experience in my readme files. </br> Here is my Test Classification Marks and some github info. Go ahed! scroll down for more about me.</p>
 
 <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-a" rel="tc-a"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-light/114x40-tc-a.png" alt="tc-a" /></a>
 &ensp;

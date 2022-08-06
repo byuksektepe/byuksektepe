@@ -67,6 +67,16 @@
   <a href="https://github.com/Berkantyuks/QATestCucumberSeleniumApple" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Berkantyuks&repo=QATestCucumberSeleniumApple&theme=white" />
   </a>
+  
+  ###
+
+  <a href="https://github.com/Berkantyuks/FaustX-FX1-AI-OpenFX" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Berkantyuks&repo=FaustX-FX1-AI-OpenFX&theme=white" />
+  </a>
+&ensp;&ensp;
+  <a href="https://github.com/Berkantyuks/FaustX-FX-FCP-OpenFX" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Berkantyuks&repo=FaustX-FX-FCP-OpenFX&theme=white" />
+  </a>
 </kbd>
 </div>
 

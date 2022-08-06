@@ -40,10 +40,11 @@
 <div align="center">
 <kbd>
 <a href="https://profile.codersrank.io/user/berkantyuks/" target="_blank">
-  <img style="width: 830px; style="border-raius: 5px;" src="https://user-images.githubusercontent.com/61010367/183269352-02678aff-2c66-46f6-b096-8f0b15eff072.png" />
+  <img style="width: 830px; style="border-raius: 5px;" src="https://user-images.githubusercontent.com/61010367/183269374-7bac63f3-7bc0-4669-b0ad-c19dd6c721ec.png" />
 </a>
 </kbd>
 </div>
+
 
 ### &#9866; Language Overview <img src="https://user-images.githubusercontent.com/61010367/183224999-7c80dc90-b810-43db-aea0-a7b61b60c937.png"/><div>
 <div align="center">

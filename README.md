@@ -29,7 +29,8 @@
     <img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-light/114x40-tc-u.png" alt="tc-u" />
   </picture>
 </a>
-
+</br>
+&ensp;
 
 <div align="center" style="display: flex;">
   <kbd>

@@ -1,4 +1,4 @@
-### &#10095;  Hi there, I'm Berkant Yüksektepe, but you can call me HighHill!<div><img src="https://user-images.githubusercontent.com/61010367/183224999-7c80dc90-b810-43db-aea0-a7b61b60c937.png"/><div>
+### &#10095;  Hi there, I'm Berkant Yüksektepe, but you can call me HighHill!<picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/cizgi-dark.png"><img src="https://user-images.githubusercontent.com/61010367/183224999-7c80dc90-b810-43db-aea0-a7b61b60c937.png"/></picture>
 
 <p>My name is Berkant Yüksektepe and I'm a Software and QA Test Automation Engineer. I'm from Istanbul/Türkiye. I love light theme. If you are using dark theme on github, you can switch to light theme for better experience in my readme files. </br> Here is my Test Classification Marks and some github info. Go ahed! scroll down for more about me.</p>
 

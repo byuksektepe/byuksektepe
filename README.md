@@ -1,4 +1,7 @@
-<img align="left" width="180px" src="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/mycat-art-3.png"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/mycat-art-scp-dark.png">
+  <img align="left" width="180px" src="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/mycat-art-scp-light.png"/>
+</picture>
 
 ### &#10095;  Hi there, I'm Berkant Yüksektepe, but you can call me HighHill!
 

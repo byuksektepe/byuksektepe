@@ -1,4 +1,4 @@
-<img align="left" width="195px" src="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/mycat-art-2.png"/>
+<img align="left" width="185px" src="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/mycat-art-2.png"/>
 
 ### &#10095;  Hi there, I'm Berkant Yüksektepe, but you can call me HighHill!
 

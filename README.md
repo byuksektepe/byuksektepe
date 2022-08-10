@@ -1,4 +1,4 @@
-<img align="left" width="190px" src="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/mycat-art.png"/>
+<img align="left" width="185px" src="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/mycat-art.png"/>
 
 ### &#10095;  Hi there, I'm Berkant Yüksektepe, but you can call me HighHill!
 
@@ -32,7 +32,7 @@
   </picture>
 </a>
 </br>
-&ensp;
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/cizgi-dark.png"><img src="https://user-images.githubusercontent.com/61010367/183224999-7c80dc90-b810-43db-aea0-a7b61b60c937.png"/></picture>
 
 <div align="center" style="display: flex;">

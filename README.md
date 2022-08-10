@@ -3,7 +3,7 @@
   <img align="left" width="180px" src="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/mycat-art-scp-light.png"/>
 </picture>
 
-### &#10095;  Hi there, I'm Berkant Yüksektepe, but you can call me HighHill!
+### &#10095;  Hi there, I'm Yüksektepe, but you can call me HighHill!
 
 <p>My name is Berkant Yüksektepe and I'm a Software Development Engineer in Test (SDET). I'm from Istanbul/Türkiye. </br> I love light theme. If you are using dark theme on github, you can switch to light theme for better experience in my readme files. Only this file optimized for dark theme. Here is my Test Classification Marks and some github info. Go ahed! scroll down for more about me.</p>
 

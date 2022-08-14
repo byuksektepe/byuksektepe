@@ -34,6 +34,10 @@
     <img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-light/114x40-tc-u.png" alt="tc-u" />
   </picture>
 </a>
+&ensp;
+<a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark" rel="tc-wb"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-box/114x40-wb.png" alt="tc-wb" /></a>
+&ensp;
+<a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark" rel="tc-bb"><img width="79px" style="border-width: 0;" src="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-box/114x40-bb.png" alt="tc-bb" /></a>
 </br>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/cizgi-dark.png"><img src="https://user-images.githubusercontent.com/61010367/183224999-7c80dc90-b810-43db-aea0-a7b61b60c937.png"/></picture>

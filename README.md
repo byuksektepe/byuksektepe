@@ -71,7 +71,7 @@
 <div align="center">
 <kbd>
 <a href="https://profile.codersrank.io/user/berkantyuks/" target="_blank">
-  <img style="width: 830px; style="border-raius: 5px;" src="https://user-images.githubusercontent.com/61010367/183269374-7bac63f3-7bc0-4669-b0ad-c19dd6c721ec.png" />
+  <img style="width: 830px; style="border-raius: 5px;" src="https://user-images.githubusercontent.com/61010367/185494454-aaf30c77-1b9b-461c-940f-6c63177f76aa.png" />
 </a>
 </kbd>
 </div>

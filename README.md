@@ -76,13 +76,12 @@
 </kbd>
 </div>
 
-
 ### &#9866; Language Overview <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/cizgi-dark.png"><img src="https://user-images.githubusercontent.com/61010367/183224999-7c80dc90-b810-43db-aea0-a7b61b60c937.png"/></picture>
 
 <div align="center">
 <kbd>
 <a href="https://profile.codersrank.io/user/berkantyuks/" target="_blank">
-  <img style="width: 830px; style="border-raius: 5px;" src="https://user-images.githubusercontent.com/61010367/182947135-8f46fd58-37ea-4c83-a084-b35020e4affc.png" />
+  <img style="width: 830px; style="border-raius: 5px;" src="https://user-images.githubusercontent.com/61010367/185495086-2bfd9934-51c3-4313-b370-a125e87cdec8.png" />
 </a>
 </kbd>
 </div>

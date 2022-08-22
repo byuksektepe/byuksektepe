@@ -42,18 +42,16 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/cizgi-dark.png"><img src="https://user-images.githubusercontent.com/61010367/183224999-7c80dc90-b810-43db-aea0-a7b61b60c937.png"/></picture>
 
-<div align="center" style="display: flex;">
-  <kbd>
-  <img src="/metrics.plugin.languages.indepth.svg"/>
-  </kbd>
-</div>
-&ensp;
-
-<div align="center">
-  <kbd>
-
-  </kbd>
-</div>
+<table>
+<tr>
+  <td>
+  <img src="/metrics.plugin.stackoverflow.svg"/>
+  </td>
+   <td>
+      <img src="/metrics.plugin.languages.indepth.svg"></img>
+  </td>
+</tr>
+</table>
 
 ### &#9866; CodersRank Score <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/cizgi-dark.png"><img src="https://user-images.githubusercontent.com/61010367/183224999-7c80dc90-b810-43db-aea0-a7b61b60c937.png"/></picture>
 

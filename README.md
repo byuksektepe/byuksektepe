@@ -47,11 +47,19 @@
   <td>
   <img src="/metrics.plugin.stackoverflow.svg"/>
   </td>
-   <td>
+  <td>
       <img src="/metrics.plugin.habits.charts.svg"></img>
       <br/>
       <img src="/metrics.plugin.languages.indepth.svg"></img>
 
+  </td>
+</tr>
+<tr>
+  <td>
+     <img src="/metrics.plugin.achievements.compact.svg"></img>
+  </td>
+  <td>
+      <img src="/metrics.plugin.topics.svg"></img>
   </td>
 </tr>
 </table>

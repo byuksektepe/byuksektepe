@@ -62,7 +62,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           template: repository
-          repo: metrics
+          repo: Non-Functional-Test-Automation-Baykar
           plugin_licenses: yes
           plugin_licenses_setup: npm ci
           plugin_licenses_legal: no
@@ -91,6 +91,16 @@ jobs:
           plugin_lines_sections: repositories, history
           plugin_lines_repositories_limit: 2
           plugin_lines_history_limit: 1
+          
+      - name: Labels
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 12
+
 
 
 

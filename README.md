@@ -84,35 +84,6 @@
 </kbd>
 </div>
 
-
-### &#9866; Test Classification Marks and My Favorite Repositories <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/cizgi-dark.png"><img src="https://user-images.githubusercontent.com/61010367/183224999-7c80dc90-b810-43db-aea0-a7b61b60c937.png"/></picture>
- 
-<div align="center">
-<kbd>
-  <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Berkantyuks&repo=QA-Project-Test-Classification-Mark&theme=white" />
-  </a>
-&ensp;&ensp;
-  <a href="https://github.com/Berkantyuks/QATestCucumberSeleniumApple" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Berkantyuks&repo=QATestCucumberSeleniumApple&theme=white" />
-  </a>
-  
-  ###
-
-  <a href="https://github.com/Berkantyuks/FaustX-FX1-AI-OpenFX" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Berkantyuks&repo=FaustX-FX1-AI-OpenFX&theme=white" />
-  </a>
-&ensp;&ensp;
-  <a href="https://github.com/Berkantyuks/FaustX-FX-FCP-OpenFX" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Berkantyuks&repo=FaustX-FX-FCP-OpenFX&theme=white" />
-  </a>
-</kbd>
-</div>
-
-
-
-
-
 <!--
 **Berkantyuks/Berkantyuks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

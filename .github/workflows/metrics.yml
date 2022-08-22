@@ -13,7 +13,7 @@ jobs:
       contents: write
     steps:
       - name: Indepth analysis
-      - uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.languages.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}

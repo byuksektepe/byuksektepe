@@ -53,6 +53,7 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
+          plugin_habits_languages_limit: 0
           config_timezone: Europe/Istanbul
 
 

@@ -53,8 +53,18 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
-          plugin_habits_languages_limit: 0
           config_timezone: Europe/Istanbul
+          
+      - name: Licenses and permissions
+        with:
+          filename: metrics.plugin.licenses.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          template: repository
+          repo: metrics
+          plugin_licenses: yes
+          plugin_licenses_setup: npm ci
+
 
 
 

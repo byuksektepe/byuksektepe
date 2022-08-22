@@ -48,7 +48,7 @@
   <img src="/metrics.plugin.stackoverflow.svg"/>
   </td>
    <td>
-      <img src="/metrics.terminal.svg"></img>
+      <img src="/metrics.plugin.habits.charts.svg"></img>
       <br/>
       <img src="/metrics.plugin.languages.indepth.svg"></img>
 

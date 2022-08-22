@@ -48,7 +48,10 @@
   <img src="/metrics.plugin.stackoverflow.svg"/>
   </td>
    <td>
+      <img src="/metrics.terminal.svg"></img>
+      <br/>
       <img src="/metrics.plugin.languages.indepth.svg"></img>
+
   </td>
 </tr>
 </table>

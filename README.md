@@ -64,9 +64,11 @@
 </tr>
 </table>
 
-### &#9866; Languages and Technologies <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/cizgi-dark.png">
+### &#9866; Languages and Technologies <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/cizgi-dark.png"><img src="https://user-images.githubusercontent.com/61010367/183224999-7c80dc90-b810-43db-aea0-a7b61b60c937.png"/></picture>
 
 <code><img width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" /></code>
+<code><img width="29" src="https://ggplot2.tidyverse.org/logo.png" /></code>
+<code><img width="29" src="https://rstudio-education.github.io/shiny-course/images/shiny.png" /></code>
 <code><img width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></code>
 <code><img width="36" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /></code>
 <code><img width="36" src="https://junit.org/junit5/assets/img/junit5-logo.png" /></code>

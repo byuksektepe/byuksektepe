@@ -66,22 +66,23 @@
 
 ### &#9866; Languages and Technologies <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/cizgi-dark.png"><img src="https://user-images.githubusercontent.com/61010367/183224999-7c80dc90-b810-43db-aea0-a7b61b60c937.png"/></picture>
 
-<code><img width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" /></code>
-<code><img width="29" src="https://ggplot2.tidyverse.org/logo.png" /></code>
-<code><img width="29" src="https://rstudio-education.github.io/shiny-course/images/shiny.png" /></code>
-<code><img width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></code>
-<code><img width="36" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /></code>
-<code><img width="36" src="https://junit.org/junit5/assets/img/junit5-logo.png" /></code>
-<code><img width="36" src="https://raw.githubusercontent.com/github/explore/6c7084bb772f6fabaae377f5ae4a607594234ee6/topics/selenium/selenium.png" /></code>
-<code><img width="33" src="https://static1.smartbear.co/cucumber/media/images/logos/icons/cucumber-open-icon.svg" /></code>
-<code><img width="36" src="https://raw.githubusercontent.com/github/explore/2b3e58e3cf32266b6856dbe97a33fde4e542170c/topics/robotframework/robotframework.png" /></code>
-<code><img width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /></code>
-<code><img width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" /></code>
-<code><img width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" /></code>
-<code><img width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" /></code>
-<code><img width="36" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" /></code>
-<code><img width="36" src="https://avatars.githubusercontent.com/u/2678858?s=280&v=4" /></code>
-<code><img width="36" src="https://www.nuget.org/profiles/specflow/avatar?imageSize=512" /></code>
+<code><img width="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" /></code>
+<code><img width="27" src="https://ggplot2.tidyverse.org/logo.png" /></code>
+<code><img width="27" src="https://rstudio-education.github.io/shiny-course/images/shiny.png" /></code>
+<code><img width="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></code>
+<code><img width="27" src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png" /></code>
+<code><img width="33" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /></code>
+<code><img width="33" src="https://junit.org/junit5/assets/img/junit5-logo.png" /></code>
+<code><img width="33" src="https://raw.githubusercontent.com/github/explore/6c7084bb772f6fabaae377f5ae4a607594234ee6/topics/selenium/selenium.png" /></code>
+<code><img width="30" src="https://static1.smartbear.co/cucumber/media/images/logos/icons/cucumber-open-icon.svg" /></code>
+<code><img width="33" src="https://raw.githubusercontent.com/github/explore/2b3e58e3cf32266b6856dbe97a33fde4e542170c/topics/robotframework/robotframework.png" /></code>
+<code><img width="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /></code>
+<code><img width="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" /></code>
+<code><img width="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" /></code>
+<code><img width="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" /></code>
+<code><img width="33" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" /></code>
+<code><img width="33" src="https://avatars.githubusercontent.com/u/2678858?s=280&v=4" /></code>
+<code><img width="33" src="https://www.nuget.org/profiles/specflow/avatar?imageSize=512" /></code>
 
 <!--
 **Berkantyuks/Berkantyuks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -17,6 +17,7 @@
                     <section>
                         <div class="topics fill-width">
                             <div class="label" title="Python is a dynamically typed programming language.">python</div>
+                            <div class="label" title="Java is an object-oriented programming language used mainly for web, desktop, embedded devices and mobile applications.">java</div>
                             <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
                             <div class="label" title="C# (&amp;quot;C sharp&amp;quot;) is an object-oriented and type-safe programming language.">c#</div>
                             <div class="label" title="R is a free programming language and software environment for statistical computing and graphics.">r</div>
@@ -25,8 +26,7 @@
                             <div class="label" title="Eliminate bugs and ship with more confidence by adding these tools to your workflow.">testing</div>
                             <div class="label" title="">automation</div>
                             <div class="label" title="Selenium is a browser automation framework and ecosystem.">selenium</div>
-                            <div class="label" title="Robot Framework is an easy to learn and to easy to use, yet powerful, generic automation framework for software testing and RPA.">robot framework</div>
-                            <div class="label" title="software-testing, bdd, jmeter, cucumber-jvm, non-functional-testing, black-box-testing">and 6 more...</div>
+                            <div class="label" title="Robot Framework, software-testing, bdd, jmeter, cucumber-jvm, non-functional-testing, black-box-testing">and 7 more...</div>
                         </div>
                     </section>
                 </div>

@@ -66,10 +66,10 @@
 
 ### &#9866; Languages and Technologies <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/cizgi-dark.png"><img src="https://user-images.githubusercontent.com/61010367/183224999-7c80dc90-b810-43db-aea0-a7b61b60c937.png"/></picture>
 
-<code><img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" /></code>
-<code><img width="32" src="https://github.com/Berkantyuks/TestR-Framework/blob/main/img/TestR-Logo.png" /></code>
-<code><img width="27" src="https://ggplot2.tidyverse.org/logo.png" /></code>
-<code><img width="27" src="https://rstudio-education.github.io/shiny-course/images/shiny.png" /></code>
+<code><img width="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" /></code>
+<code><img width="33" src="https://github.com/Berkantyuks/TestR-Framework/blob/main/img/TestR-Logo.png" /></code>
+<code><img width="28" src="https://ggplot2.tidyverse.org/logo.png" /></code>
+<code><img width="28" src="https://rstudio-education.github.io/shiny-course/images/shiny.png" /></code>
 <code><img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></code>
 <code><img width="26" src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png" /></code>
 <code><img width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /></code>

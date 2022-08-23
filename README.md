@@ -70,6 +70,7 @@
 <code><img width="33" src="https://github.com/Berkantyuks/TestR-Framework/blob/main/img/TestR-Logo.png" /></code>
 <code><img width="28" src="https://ggplot2.tidyverse.org/logo.png" /></code>
 <code><img width="28" src="https://rstudio-education.github.io/shiny-course/images/shiny.png" /></code>
+<code><img width="28" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM0f35436bKdfxxOETvJ33eHThsmRd6Q2KSaVUFuemfq1941fgOVNljxCJ4mIz3TRIudY&usqp=CAU" /></code>
 <code><img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></code>
 <code><img width="26" src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png" /></code>
 <code><img width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /></code>

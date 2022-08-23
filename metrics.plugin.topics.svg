@@ -24,9 +24,9 @@
                             <div class="label" title=".NET is a free, cross-platform, open source developer platform.">.net</div>
                             <div class="label" title="Maven is a build automation tool used primarily for Java projects.">maven</div>
                             <div class="label" title="Eliminate bugs and ship with more confidence by adding these tools to your workflow.">testing</div>
+                            <div class="label" title="OpenCV was designed for computational efficiency and with a strong focus on real-time applications.">opencv</div>
                             <div class="label" title="">automation</div>
-                            <div class="label" title="Selenium is a browser automation framework and ecosystem.">selenium</div>
-                            <div class="label" title="Robot Framework, software-testing, bdd, jmeter, junit, cucumber-jvm, non-functional-testing, black-box-testing">and 8 more...</div>
+                            <div class="label" title="Selenium, Robot Framework, software-testing, bdd, jmeter, junit, cucumber-jvm, non-functional-testing, black-box-testing">and 9 more...</div>
                         </div>
                     </section>
                 </div>

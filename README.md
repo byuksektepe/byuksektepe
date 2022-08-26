@@ -66,9 +66,7 @@
 
 ### &#9866; Languages and Technologies <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/cizgi-dark.png"><img src="https://user-images.githubusercontent.com/61010367/183224999-7c80dc90-b810-43db-aea0-a7b61b60c937.png"/></picture>
 
-<table>
-<tr>
-<td>
+<div align="center">
 <code><img width="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" /></code>
 <code><img width="33" src="https://github.com/Berkantyuks/TestR-Framework/blob/main/img/TestR-Logo.png" /></code>
 <code><img width="28" src="https://ggplot2.tidyverse.org/logo.png" /></code>
@@ -88,9 +86,8 @@
 <code><img width="32" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" /></code>
 <code><img width="32" src="https://avatars.githubusercontent.com/u/2678858?s=280&v=4" /></code>
 <code><img width="32" src="https://www.nuget.org/profiles/specflow/avatar?imageSize=512" /></code>
-</td>
-</tr>
-</table>
+</div>
+
 
 <!--
 **Berkantyuks/Berkantyuks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

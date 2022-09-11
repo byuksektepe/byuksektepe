@@ -20,8 +20,8 @@
                             <div class="label" title="Java is an object-oriented programming language used mainly for web, desktop, embedded devices and mobile applications.">java</div>
                             <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
                             <div class="label" title="C# (&amp;quot;C sharp&amp;quot;) is an object-oriented and type-safe programming language.">c#</div>
-                            <div class="label" title="R is a free programming language and software environment for statistical computing and graphics.">r</div>
                             <div class="label" title=".NET is a free, cross-platform, open source developer platform.">.net</div>
+                            <div class="label" title="R is a free programming language and software environment for statistical computing and graphics.">r</div>
                             <div class="label" title="Maven is a build automation tool used primarily for Java projects.">maven</div>
                             <div class="label" title="Eliminate bugs and ship with more confidence by adding these tools to your workflow.">testing</div>
                             <div class="label" title="OpenCV was designed for computational efficiency and with a strong focus on real-time applications.">opencv</div>

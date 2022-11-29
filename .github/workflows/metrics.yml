@@ -44,16 +44,16 @@ jobs:
           plugin_stackoverflow_sections: answers-top
           plugin_stackoverflow_limit: 2
           
-      - name: Recent activity charts
+      - name: Coding habits and activity
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_habits: yes
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
+          plugin_habits: 'yes'
+          plugin_habits_facts: 'yes'
+          plugin_habits_charts: 'no'
           config_timezone: Europe/Istanbul
+          use_mocked_data: 'yes'
+          verify: 'yes'
           
       - name: Compact display
         uses: lowlighter/metrics@latest

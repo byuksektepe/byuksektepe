@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/mycat-art-scp-dark.png">
-  <img align="left" width="180px" src="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/mycat-art-scp-light.png"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/564x/02/e7/b5/02e7b543d03da6c191cb0e9e9ae6ce4f.jpg">
+  <img align="left" width="180px" src="https://i.pinimg.com/564x/02/e7/b5/02e7b543d03da6c191cb0e9e9ae6ce4f.jpg"/>
 </picture>
 
 ### &#10095;  Hi there, I'm Yüksektepe, but you can call me HighHill!

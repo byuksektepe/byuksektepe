@@ -3,9 +3,9 @@
   <img align="left" width="210px" src="https://i.pinimg.com/564x/02/e7/b5/02e7b543d03da6c191cb0e9e9ae6ce4f.jpg"/>
 </picture>
 
-### &#10095;  Hi there, I'm Yüksektepe, but you can call me HighHill!
+### ${&#10095; \ Hi\ there,\ I'm\ Yüksektepe,\ but\ you\ can\ call\ me\ {\color{RoyalBlue}HighHill} !\}\$ 
 
-<p>My name is Berkant Yüksektepe and I'm a Software Testing Specialist. I'm from Istanbul/Türkiye. </br> I love light theme. If you are using dark theme on github, you can switch to light theme for better experience in my readme files. Only this file optimized for dark theme. Here is my Test Classification Marks and some github info. Go ahed! scroll down for more about me.</p>
+<p>My name is Berkant Yüksektepe and I'm a Software Developer in Test. I'm from Istanbul/Türkiye. </br> I love light theme. If you are using dark theme on github, you can switch to light theme for better experience in my readme files. Only this file optimized for dark theme. Here is my Test Classification Marks and some github info. Go ahed! scroll down for more about me.</p>
 
 <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-a" rel="tc-a">
   <picture>

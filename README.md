@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/564x/02/e7/b5/02e7b543d03da6c191cb0e9e9ae6ce4f.jpg">
-  <img align="left" width="180px" src="https://i.pinimg.com/564x/02/e7/b5/02e7b543d03da6c191cb0e9e9ae6ce4f.jpg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/69/e5/1f/69e51f85d022ac41ee010e5e4d6d9c2f.gif">
+  <img align="left" width="210px" src="https://i.pinimg.com/originals/69/e5/1f/69e51f85d022ac41ee010e5e4d6d9c2f.gif"/>
 </picture>
 
 ### &#10095;  Hi there, I'm Yüksektepe, but you can call me HighHill!

@@ -3,9 +3,9 @@
   <img align="left" width="210px" src="https://i.pinimg.com/564x/02/e7/b5/02e7b543d03da6c191cb0e9e9ae6ce4f.jpg"/>
 </picture>
 
-###&#10095; Hi there, I'm Berkant Yüksektepe
+### Hi there, I'm Berkant Yüksektepe
 
-<p>My name is Berkant Yüksektepe and I'm a Software Developer in Test. I'm from Istanbul/Türkiye. Here is my Test Classification Marks and some github info. Go ahed! scroll down for more about me.</p>
+<p>I'm a Software Developer in Test (SDET). I'm from Istanbul/Türkiye. Here is my Test Classification Marks and some github info. Go ahed! scroll down for more about me.</p>
 
 <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-a" rel="tc-a">
   <picture>

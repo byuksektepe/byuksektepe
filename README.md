@@ -1,7 +1,9 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/564x/02/e7/b5/02e7b543d03da6c191cb0e9e9ae6ce4f.jpg">
-  <img align="left" width="210px" src="https://i.pinimg.com/564x/02/e7/b5/02e7b543d03da6c191cb0e9e9ae6ce4f.jpg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://pbs.twimg.com/media/FyGLarfXwAAJ_tI?format=jpg&name=4096x4096">
+  <img align="left" src="https://pbs.twimg.com/media/FyGLarfXwAAJ_tI?format=jpg&name=4096x4096"/>
 </picture>
+
+<p></p>
 
 ### Hi there, I'm Berkant Yüksektepe
 

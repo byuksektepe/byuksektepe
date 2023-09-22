@@ -3,9 +3,9 @@
   <img align="left" src="https://pbs.twimg.com/media/FyGLarfXwAAJ_tI?format=jpg&name=4096x4096"/>
 </picture>
 
-<p></p>
+<br/><br/>
 
-### Hi there, I'm Berkant Yüksektepe
+### &#9866; Hi there, I'm Berkant Yüksektepe <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/cizgi-dark.png"><img src="https://user-images.githubusercontent.com/61010367/183224999-7c80dc90-b810-43db-aea0-a7b61b60c937.png"/></picture>
 
 <p>I'm a Software Developer in Test (SDET). I'm from Istanbul/Türkiye. Here is my Test Classification Marks and some github info. Go ahed! scroll down for more about me.</p>
 
@@ -76,7 +76,6 @@
 </table>
 
 ### &#9866; Languages and Technologies <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/cizgi-dark.png"><img src="https://user-images.githubusercontent.com/61010367/183224999-7c80dc90-b810-43db-aea0-a7b61b60c937.png"/></picture>
-
 <div align="center">
 <code><img width="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" /></code>
 <code><img width="33" src="https://github.com/Berkantyuks/TestR-Framework/blob/main/img/TestR-Logo.png" /></code>

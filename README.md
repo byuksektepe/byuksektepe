@@ -56,6 +56,7 @@
 
   </td>
 </tr>
+<tr></tr>
 <tr>
   <td><img src="/metrics.plugin.stars.svg"></img></td>
   <td>

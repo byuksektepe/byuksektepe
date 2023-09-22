@@ -57,6 +57,14 @@
   </td>
 </tr>
 <tr>
+  <td><img src="/metrics.plugin.stars.svg"></img></td>
+  <td>
+    <img src="/metrics.plugin.code.svg"></img>
+    <br/>
+    <img src="/metrics.terminal.svg"></img>
+  </td>
+</tr>
+<tr>
   <td>
      <img src="/metrics.plugin.achievements.compact.svg"></img>
   </td>

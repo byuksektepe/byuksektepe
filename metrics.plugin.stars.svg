@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jazzband/django-defender</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple super fast django reusable app that blocks people from brute forcing login attempts</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vbabiy/djangorestframework-camel-case</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Camel case JSON support for Django REST framework.</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jazzband/django-formtools</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A set of high-level abstractions for Django forms</div>
@@ -182,7 +182,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jazzband/django-constance</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Sep 18 2023</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dynamic Django settings.</div>

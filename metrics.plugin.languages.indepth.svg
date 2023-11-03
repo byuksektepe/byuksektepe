@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 19mb of code in 2237 edited files across 1081 commits</small>
+                <small>estimation from 17.2mb of code in 1670 edited files across 611 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="169.92925370228141" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="169.92925370228141" y="0" width="129.69424402063973" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="299.6234977229212" y="0" width="80.9178628993001" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="380.54136062222125" y="0" width="79.45863937777874" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="186.33425954207527" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="186.33425954207527" y="0" width="141.90666544094753" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="328.2409249830228" y="0" width="88.72969037741277" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="416.9706153604356" y="0" width="43.029384639564434" height="8" fill="#00c0b5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -63,20 +63,20 @@
                                 Java
                             </div>
                             <small>
-                                <div>2.80k lines</div>
+                                <div>2.78k lines</div>
                                 <div>104 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#198CE7" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#00c0b5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                R
+                                RobotFramework
                             </div>
                             <small>
-                                <div>2.16k lines</div>
-                                <div>63.8 kB</div>
+                                <div>814 lines</div>
+                                <div>31.5 kB</div>
                             </small>
                         </div>
                     </section>

@@ -1,14 +1,10 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pbs.twimg.com/media/FyGLarfXwAAJ_tI?format=jpg&name=4096x4096">
-  <img align="left" src="https://pbs.twimg.com/media/FyGLarfXwAAJ_tI?format=jpg&name=4096x4096"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/xHIwLFltzPcAAAAC/cars-drift.gif">
+  <img align="left" src="https://media.tenor.com/xHIwLFltzPcAAAAC/cars-drift.gif"/>
 </picture>
 
-<br/><br/>
-
-### &#9866; Hi there, I'm Berkant Yüksektepe <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/cizgi-dark.png"><img src="https://user-images.githubusercontent.com/61010367/183224999-7c80dc90-b810-43db-aea0-a7b61b60c937.png"/></picture>
-
+### &#9866; Hi there, I'm Berkant Yüksektepe
 <p>I'm a Software Developer in Test (SDET). I'm from Istanbul/Türkiye. Here is my Test Classification Marks and some github info. Go ahed! scroll down for more about me.</p>
-
 <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-a" rel="tc-a">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-dark/114x40-tc-a.png">

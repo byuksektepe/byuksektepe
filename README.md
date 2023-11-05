@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8c41af36480857.571e5729a85e8.gif">
-  <img align="left" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8c41af36480857.571e5729a85e8.gif"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/01/38/11/013811d63121a093c32714cbbeeea0d0.gif">
+  <img align="left" src="https://i.pinimg.com/originals/01/38/11/013811d63121a093c32714cbbeeea0d0.gif"/>
 </picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/cizgi-dark.png"><img src="https://user-images.githubusercontent.com/61010367/183224999-7c80dc90-b810-43db-aea0-a7b61b60c937.png"/></picture>

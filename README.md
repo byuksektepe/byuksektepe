@@ -1,7 +1,9 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/xHIwLFltzPcAAAAC/cars-drift.gif">
-  <img align="left" src="https://media.tenor.com/xHIwLFltzPcAAAAC/cars-drift.gif"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8c41af36480857.571e5729a85e8.gif">
+  <img align="left" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8c41af36480857.571e5729a85e8.gif"/>
 </picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/cizgi-dark.png"><img src="https://user-images.githubusercontent.com/61010367/183224999-7c80dc90-b810-43db-aea0-a7b61b60c937.png"/></picture>
 
 ### &#9866; Hi there, I'm Berkant Yüksektepe
 <p>I'm a Software Developer in Test (SDET). I'm from Istanbul/Türkiye. Here is my Test Classification Marks and some github info. Go ahed! scroll down for more about me.</p>

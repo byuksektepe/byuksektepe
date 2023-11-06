@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/byuksektepe/byuksektepe/blob/5500a05195503f05b58526befdcf78bb3585e95d/images/death-stranding-rick-and-morty-uhdpaper.com-4K-5.1354.jpg">
-  <img align="left" src="https://github.com/byuksektepe/byuksektepe/blob/5500a05195503f05b58526befdcf78bb3585e95d/images/death-stranding-rick-and-morty-uhdpaper.com-4K-5.1354.jpg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://theawesomer.com/photos/2015/09/animations_by_kirokaze_2.gif">
+  <img align="left" width="100%" src="https://theawesomer.com/photos/2015/09/animations_by_kirokaze_2.gif"/>
 </picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/Berkantyuks/Berkantyuks/blob/main/images/cizgi-dark.png"><img src="https://user-images.githubusercontent.com/61010367/183224999-7c80dc90-b810-43db-aea0-a7b61b60c937.png"/></picture>

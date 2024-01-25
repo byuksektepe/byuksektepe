@@ -24,8 +24,8 @@
                             <div class="label" title="R is a free programming language and software environment for statistical computing and graphics.">r</div>
                             <div class="label" title="Maven is a build automation tool used primarily for Java projects.">maven</div>
                             <div class="label" title="The act of examining behavior of the software under test to eliminate bugs and ship with more confidence.">testing</div>
-                            <div class="label" title="OpenCV was designed for computational efficiency and with a strong focus on real-time applications.">opencv</div>
                             <div class="label" title="The technique of making an apparatus, a process, or a system operate automatically.">automation</div>
+                            <div class="label" title="OpenCV was designed for computational efficiency and with a strong focus on real-time applications.">opencv</div>
                             <div class="label" title="Selenium, Robot Framework, software-testing, Behavior-driven development, jmeter, junit, cucumber-jvm, non-functional-testing, black-box-testing">and 9 more...</div>
                         </div>
                     </section>

@@ -3,9 +3,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/byuksektepe/byuksektepe/blob/main/images/2019_CKS_17698_0022_000(felix_ziem_constantinople).jpg">
   <img align="left" width="100%" src="https://github.com/byuksektepe/byuksektepe/blob/main/images/2019_CKS_17698_0022_000(felix_ziem_constantinople).jpg"/>
-  
 </picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/byuksektepe/byuksektepe/blob/main/images/cbe8ec15-cf2b-482e-a2b7-50327a7ea311.png"><img src="https://github.com/byuksektepe/byuksektepe/blob/main/images/cbe8ec15-cf2b-482e-a2b7-50327a7ea311.png"/></picture>
+
+### &ensp;
 
 ### &#9866; Hi there, I'm Berkant Yüksektepe
 <p>I'm a Software Developer in Test (SDET). I'm from Istanbul/Türkiye. Here is my Test Classification Marks and some github info. Go ahed! scroll down for more about me.</p>

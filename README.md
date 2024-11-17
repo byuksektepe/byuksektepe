@@ -1,14 +1,14 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/byuksektepe/byuksektepe/blob/main/images/2019_CKS_17698_0022_000(felix_ziem_constantinople).jpg">
-  <img align="left" width="100%" src="https://github.com/byuksektepe/byuksektepe/blob/main/images/2019_CKS_17698_0022_000(felix_ziem_constantinople).jpg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/byuksektepe/byuksektepe/blob/main/images/aab556755gg67sh55f.png">
+  <img align="left" width="100%" src="https://github.com/byuksektepe/byuksektepe/blob/main/images/aab556755gg67sh55f.png"/>
 </picture>
 
 ### &ensp;
 
 ### &#9866; Hi there, I'm Berkant Yüksektepe
-<p>I'm a Software Developer in Test (SDET). I'm from Istanbul/Türkiye. Here is my Test Classification Marks and some github info. Go ahed! scroll down for more about me.</p>
+<p>I'm a GIS & Software Developer. I'm from Istanbul/Türkiye. Here is my Test Classification Marks for test driven development and some github info. Go ahed! scroll down for more about me.</p>
 <a href="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark#test-class-a" rel="tc-a">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Berkantyuks/QA-Project-Test-Classification-Mark/blob/main/TCM-114x40-dark/114x40-tc-a.png">
